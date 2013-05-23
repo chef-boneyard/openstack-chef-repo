@@ -1,3 +1,5 @@
+THIS BRANCH IS NO LONGER ACTIVELY MAINTAINED OR DEVELOPED.
+
 Description
 ===========
 This repository contains the roles, environments and data bags for deploying an OpenStack **Essex** reference architecture using Chef. This currently includes the 5 OpenStack core projects: Nova, Glance, Keystone, Horizon and Swift(under development). Folsom development will begin very soon.
